@@ -280,7 +280,6 @@ public class ChatController {
 			map.put("changeName", chatfiles.getChangeName());
 
 		}
-
 		return map;
 	}
 }
